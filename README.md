@@ -15,7 +15,7 @@ Pokaždé, když vytáhneš peněženku, vybíráš si, jaký chceš svět. Že 
 
 ### Máš Firefox?
 1. Najdi rozšíření na [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/babis-v-rohliku/)
-2, Klikni na tlačítko "Přidat do Firefoxu"
+2. Klikni na tlačítko "Přidat do Firefoxu"
 3. Potvrď klepnutím na "Přidat"
 
 ## Contribution
