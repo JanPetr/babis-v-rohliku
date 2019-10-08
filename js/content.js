@@ -10,6 +10,7 @@ const RohlikBabisPlugin = {
 		'penam',
 		'papei',
 		'odkolek',
+		'delta',
 	],
 	imgUrl: typeof chrome != "undefined" ? chrome.extension.getURL("babis.png") : safari.extension.baseURI + 'babis.png',
 	showImages: function () {
